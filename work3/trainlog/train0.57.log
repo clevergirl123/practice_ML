@@ -1,0 +1,82 @@
+train finished
+test finished
+
+Pass 0, EPoch 0, Cost 6.564183, Acc 0.023438
+.........................................
+Test with Pass 0, Loss 3.3, Acc 0.25
+
+Pass 0, EPoch 1, Cost 2.608416, Acc 0.382812
+.........................................
+Test with Pass 1, Loss 2.8, Acc 0.35
+
+Pass 0, EPoch 2, Cost 2.092134, Acc 0.539062
+.........................................
+Test with Pass 2, Loss 2.6, Acc 0.41
+
+Pass 0, EPoch 3, Cost 1.731729, Acc 0.593750
+.........................................
+Test with Pass 3, Loss 2.4, Acc 0.44
+
+Pass 0, EPoch 4, Cost 1.574738, Acc 0.609375
+.........................................
+Test with Pass 4, Loss 2.3, Acc 0.48
+
+Pass 0, EPoch 5, Cost 1.157587, Acc 0.726562
+.........................................
+Test with Pass 5, Loss 2.2, Acc 0.5
+
+Pass 0, EPoch 6, Cost 0.871638, Acc 0.804688
+.........................................
+Test with Pass 6, Loss 2.2, Acc 0.51
+
+Pass 0, EPoch 7, Cost 0.892577, Acc 0.789062
+.........................................
+Test with Pass 7, Loss 2.2, Acc 0.52
+
+Pass 0, EPoch 8, Cost 0.736613, Acc 0.812500
+.........................................
+Test with Pass 8, Loss 2.2, Acc 0.53
+
+Pass 0, EPoch 9, Cost 0.488344, Acc 0.890625
+.........................................
+Test with Pass 9, Loss 2.2, Acc 0.55
+
+Pass 0, EPoch 10, Cost 0.467200, Acc 0.859375
+.........................................
+Test with Pass 10, Loss 2.2, Acc 0.56
+
+Pass 0, EPoch 11, Cost 0.442770, Acc 0.906250
+.........................................
+Test with Pass 11, Loss 2.3, Acc 0.56
+
+Pass 0, EPoch 12, Cost 0.287953, Acc 0.960938
+.........................................
+Test with Pass 12, Loss 2.3, Acc 0.56
+
+Pass 0, EPoch 13, Cost 0.254854, Acc 0.976562
+.........................................
+Test with Pass 13, Loss 2.3, Acc 0.56
+
+Pass 0, EPoch 14, Cost 0.245107, Acc 0.976562
+.........................................
+Test with Pass 14, Loss 2.3, Acc 0.57
+
+Pass 0, EPoch 15, Cost 0.130503, Acc 0.992188
+.........................................
+Test with Pass 15, Loss 2.5, Acc 0.57
+
+Pass 0, EPoch 16, Cost 0.198099, Acc 0.945312
+.........................................
+Test with Pass 16, Loss 2.5, Acc 0.56
+
+Pass 0, EPoch 17, Cost 0.066255, Acc 1.000000
+.........................................
+Test with Pass 17, Loss 2.7, Acc 0.54
+
+Pass 0, EPoch 18, Cost 0.080754, Acc 0.992188
+.........................................
+Test with Pass 18, Loss 2.6, Acc 0.56
+
+Pass 0, EPoch 19, Cost 0.095854, Acc 0.984375
+.........................................
+Test with Pass 19, Loss 2.6, Acc 0.57
